@@ -1,8 +1,3 @@
-create table TempInstructors (
-TempID INT,
-TempName VARCHAR(50), 
-JoinedDate DATE
-);
 
 create table Departments (
 DepartmentID int primary key,
